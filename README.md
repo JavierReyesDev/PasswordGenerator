@@ -28,7 +28,7 @@ Run the main.py file to start the application:
 ### Option 2: Executable (for immediate use)
 There are precompiled executable files available for quick use:
 
-* Windows: pw.exe located in the bin folder.
+* Windows: pg.exe located in the bin folder.
 * Linux: pg.sh located in the bin folder.
 To run these:
 
